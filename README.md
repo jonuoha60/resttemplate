@@ -53,4 +53,4 @@ This Spring Boot project demonstrates how to **consume external REST APIs** usin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/resttemplate.git
+   git clone https://github.com/jonuoha60/resttemplate.git
